@@ -1,0 +1,122 @@
+HTML (HyperText Markup Language) has numerous tags for a variety of purposes, and it continues to evolve over time. However, as of my last update in September 2021, here's a list of some commonly used HTML tags:
+
+### Basic Structure 基礎結構
+- `<!DOCTYPE>`
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
+
+### Text Formatting 文本格式
+- `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>`
+- `<p>`
+- `<br>`
+- `<hr>`
+- `<strong>`
+- `<b>`
+- `<em>`
+- `<i>`
+- `<small>`
+- `<mark>`
+- `<del>`
+- `<ins>`
+- `<sub>`
+- `<sup>`
+- `<code>`
+- `<pre>`
+- `<blockquote>`
+- `<q>`
+- `<abbr>`
+- `<cite>`
+- `<dfn>`
+
+### Lists 清單
+- `<ul>`
+- `<ol>`
+- `<li>`
+- `<dl>`
+- `<dt>`
+- `<dd>`
+
+### Links and Resources 連結和資源
+- `<a>`
+- `<img>`
+- `<embed>`
+- `<iframe>`
+- `<audio>`
+- `<video>`
+- `<source>`
+- `<track>`
+
+### Forms 表單
+- `<form>`
+- `<input>`
+- `<textarea>`
+- `<button>`
+- `<select>`
+- `<option>`
+- `<optgroup>`
+- `<fieldset>`
+- `<legend>`
+- `<label>`
+- `<meter>`
+- `<progress>`
+- `<output>`
+
+### Table 表格
+- `<table>`
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+- `<tr>`
+- `<td>`
+- `<th>`
+- `<caption>`
+- `<colgroup>`
+- `<col>`
+
+### Sections 區塊
+- `<header>`
+- `<footer>`
+- `<nav>`
+- `<section>`
+- `<article>`
+- `<aside>`
+- `<main>`
+- `<figure>`
+- `<figcaption>`
+
+### Text Direction 文字方向
+- `<bdo>`
+- `<bdi>`
+
+### Miscellaneous 其他
+- `<div>`
+- `<span>`
+- `<base>`
+- `<meta>`
+- `<link>`
+- `<style>`
+- `<script>`
+- `<noscript>`
+- `<object>`
+- `<param>`
+- `<canvas>`
+- `<svg>`
+- `<datalist>`
+- `<details>`
+- `<summary>`
+- `<time>`
+- `<address>`
+- `<s>`
+- `<u>`
+- `<wbr>`
+
+### Deprecated Tags (Generally not recommended) 不推薦使用的已廢棄標籤
+- `<font>`
+- `<center>`
+- `<strike>`
+- `<big>`
+- `<small>`
+  
+Please note that this list is not exhaustive. HTML5 continues to evolve, and new tags may have been introduced after my last training data in September 2021. Always refer to the most current HTML specification for the most up-to-date information.
